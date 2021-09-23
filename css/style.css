@@ -1,0 +1,83 @@
+A IMG {
+	BORDER-RIGHT: #8ec509 2px solid; BORDER-TOP: #8ec509 2px solid; BORDER-LEFT: #8ec509 2px solid; BORDER-BOTTOM: #8ec509 2px solid
+}
+A:hover IMG {
+	BORDER-RIGHT: #FBD28C 3px solid; BORDER-TOP: #FBD28C 3px solid; BORDER-LEFT: #FBD28C 3px solid; BORDER-BOTTOM: #FBD28C 3px solid
+}
+BODY {
+	SCROLLBAR-FACE-COLOR: #FBD28C; 
+	SCROLLBAR-HIGHLIGHT-COLOR: #8ec509; 
+	SCROLLBAR-SHADOW-COLOR: #8ec509; 
+	SCROLLBAR-3DLIGHT-COLOR: #8ec509;  
+	SCROLLBAR-ARROW-COLOR: #000000; 
+	SCROLLBAR-TRACK-COLOR: #8ec509;  
+	SCROLLBAR-DARKSHADOW-COLOR: #8ec509; 
+	SCROLLBAR-BASE-COLOR: #8ec509; 
+	
+	
+}
+BODY {
+	FONT-SIZE: 8pt; COLOR: #818574; LINE-HEIGHT: 8pt; FONT-FAMILY: verdana; TEXT-ALIGN: left}
+
+TD {
+	FONT-SIZE: 8pt; COLOR: #818574; LINE-HEIGHT: 13pt; FONT-FAMILY: verdana; TEXT-ALIGN: left}
+
+
+
+A {
+	COLOR: #2F4858; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #000000; TEXT-DECORATION: underline
+}
+
+.rss-box {
+    margin-left: 65px;
+    border: 2px  #8ec509;
+    border-left-style: solid;
+
+    
+}
+
+.rss-item  {
+    color: #aaa;
+   font-family: verdana, arial, sans-serif;
+   font-size: 13px;
+   font-weight : bold; 
+   margin: 8px 0;
+   width: 95%;
+ }
+ 
+ .rss-item a:link, .rss-item a:visited, .rss-item a:active {
+    text-decoration : none;
+    border-bottom: 1px solid #ededed;
+    color: #88b;
+    }
+ 
+ .rss-item a:hover { 
+    text-decoration : none;
+    color: #e0861e;
+    border-bottom: 1px dotted #e0861e;
+    }
+    
+ .rss-date {
+    font-size: 11px;
+    font-weight : normal;
+    color: #F60;
+    }
+
+.header{
+    margin:20px 50px 30px;
+}
+
+.bio{
+    margin: 0 20px 20px;
+}
+
+.space{
+    padding: 5px;
+    margin: 0px 20px 25px;
+}
+td .video{
+    margin: 0 50px 20px;
+}
